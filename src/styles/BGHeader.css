@@ -1,0 +1,8 @@
+.container-headerbg {
+    background-image: url("https://wallpaper.dog/large/17236421.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    height: 500px;
+}

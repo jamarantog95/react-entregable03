@@ -1,0 +1,24 @@
+.form_search {
+    display: flex;
+    justify-content: center;
+    gap: .3rem;
+    padding-bottom: 1rem;
+}
+
+.input_search {
+    padding: .5rem 0;
+    width: 45%;
+    background-color: #063c44;
+    border-radius: 5px;
+    color: #e8e1e1;
+    text-align: center;
+    font-size: 1.1rem;
+}
+
+.btn_search {
+    padding: 0 1.2rem;
+    background-color: #062226;
+    border-color: #e8e1e1;
+    color: #e8e1e1;
+    font-size: 1rem;
+}

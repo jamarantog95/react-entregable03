@@ -1,0 +1,19 @@
+.locationinfo-container {
+    display: grid;
+    text-align: center;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+    padding: 2rem 0;
+    color: #ffffff;
+
+}
+
+.location-content,
+.list-location-item {
+    grid-column: 1/4;
+}
+
+.list-location-item {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}

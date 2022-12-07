@@ -1,0 +1,16 @@
+.residents-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+
+    width: 100%;
+    max-width: 920px;
+    margin: 0 auto;
+}
+
+.item-main-title {
+    text-align: center;
+    padding: 2rem;
+    color: #ffffff;
+}
